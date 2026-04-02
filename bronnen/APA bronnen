@@ -1,20 +1,20 @@
-[8]  Carlson M (2024). _org.Hs.eg.db: Genome wide annotation for Human_. R
+[7]  Carlson M (2024). _org.Hs.eg.db: Genome wide annotation for Human_. R
   package version 3.20.0.
 
-[9]  H. Wickham. ggplot2: Elegant Graphics for Data Analysis.
+[8]  H. Wickham. ggplot2: Elegant Graphics for Data Analysis.
   Springer-Verlag New York, 2016.
 
-[10] Wickham H, François R, Henry L, Müller K, Vaughan D (2026). _dplyr: A
+[9] Wickham H, François R, Henry L, Müller K, Vaughan D (2026). _dplyr: A
   Grammar of Data Manipulation_. R package version 1.2.0,
   https://CRAN.R-project.org/package=dplyr.
 
-[11]  Wickham H, Vaughan D, Girlich M (2025). _tidyr: Tidy Messy Data_. R
+[10]  Wickham H, Vaughan D, Girlich M (2025). _tidyr: Tidy Messy Data_. R
   package version 1.3.2, https://CRAN.R-project.org/package=tidyr.
 
-[13] Csárdi G, Nepusz T (2006). “The igraph software package for complex
+[11] Csárdi G, Nepusz T (2006). “The igraph software package for complex
   network research.” _InterJournal_, *Complex Systems*, 1695.
   <https://igraph.org>.
 
-[14] Pedersen T (2024). _tidygraph: A Tidy API for Graph Manipulation_. R
+[12] Pedersen T (2024). _tidygraph: A Tidy API for Graph Manipulation_. R
   package version 1.3.1, https://CRAN.R-project.org/package=tidygraph.
 
